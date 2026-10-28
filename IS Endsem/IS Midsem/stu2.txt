@@ -1,0 +1,6 @@
+Student ID: 102
+Name: Aaryan Nikumbh
+Course: Information Security
+Assignment: 2
+Marks: 50
+Grade: D

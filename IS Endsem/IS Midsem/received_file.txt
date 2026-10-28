@@ -1,0 +1,6 @@
+Student ID: 101
+Name: Sohan Nikumbh
+Course: Information Security
+Assignment: 2
+Marks: 85
+Grade: A
